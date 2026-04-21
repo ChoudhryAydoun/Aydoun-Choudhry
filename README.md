@@ -6,6 +6,9 @@ Aspiring Computer Science student passionate about:
 - Artificial Intelligence / MLOps
 
 ## 🚀 Projects
+### 🧮 Calculator (Python)
+A simple calculator application that performs basic arithmetic operations such as addition, subtraction, multiplication, and division.  
+🔗 https://github.com/ChoudhryAydoun/Calculator/tree/main
 
 ### 📌 Task Manager (Python)
 A command-line application to manage daily tasks with file storage.  
