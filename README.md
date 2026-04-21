@@ -9,15 +9,15 @@ Aspiring Computer Science student passionate about:
 
 ### 📌 Task Manager (Python)
 A command-line application to manage daily tasks with file storage.  
-🔗 https://github.com/yourusername/task-manager-python
+🔗 https://github.com/ChoudhryAydoun/Task-manager-
 
 ### 🎯 Number Guessing Game
 Interactive game using random number generation and user input.  
-🔗 https://github.com/yourusername/number-guessing-game
+🔗 https://github.com/ChoudhryAydoun/Guessing-game
 
 ### 📄 PDF Crop & Convert Tool
 Tool to crop PDF pages and convert them to Word documents.  
-🔗 https://github.com/yourusername/pdf-crop-converter
+🔗https://github.com/ChoudhryAydoun/pdf-processing-tool
 
 ## 🛠 Skills
 - Python
