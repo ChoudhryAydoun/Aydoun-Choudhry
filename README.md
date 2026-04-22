@@ -21,8 +21,10 @@ Interactive game using random number generation and user input.
 ### 📄 PDF Crop & Convert Tool
 Tool to crop PDF pages and convert them to Word documents.  
 🔗https://github.com/ChoudhryAydoun/pdf-processing-tool
+
 ### Python Code Practiced
 All Basic to advanced Concepts coding practice in python language.
+
 🔗https://github.com/ChoudhryAydoun/Python-code-practice-
 
 ## 🛠 Skills
